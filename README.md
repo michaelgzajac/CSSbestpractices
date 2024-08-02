@@ -1,1 +1,1 @@
-CSS Best Practices from FES Course.
+WEEK 1 - FES Course Content - CSS Best Practices.
